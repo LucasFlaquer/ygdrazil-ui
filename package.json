@@ -2,5 +2,16 @@
   "private": true,
   "workspaces": [
     "packages/*"
-  ]
+  ],
+  "scripts": {
+    "dev": "turbo run dev --parallel",
+    "build": "turbo run build"
+  },
+  "devDependencies": {
+    "turbo": "^1.7.0"
+  },
+  "engines" : { 
+    "npm" : "8.1.2",
+    "node" : "16.13.2"
+  }
 }
