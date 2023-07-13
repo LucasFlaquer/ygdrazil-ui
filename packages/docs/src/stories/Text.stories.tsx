@@ -12,7 +12,7 @@ export default {
 
 export const Primary: StoryObj<TextProps> = {}
 
-export const CustoTag: StoryObj<TextProps> = {
+export const CustomTag: StoryObj<TextProps> = {
   args: {
     children: 'Strong Text',
     as: 'strong',
