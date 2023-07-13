@@ -1,5 +1,5 @@
 import { StoryObj, Meta } from '@storybook/react'
-import { Box, BoxProps } from '@gaia/react'
+import { Box, BoxProps, Text } from '@gaia/react'
 
 export default {
   title: 'Surfaces/Box',
@@ -7,7 +7,7 @@ export default {
   args: {
     children: (
       <>
-        <span>Testando o Elemento do Box</span>
+        <Text>Testando o Elemento do Box</Text>
       </>
     ),
   },
