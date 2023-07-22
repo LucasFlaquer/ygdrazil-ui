@@ -14,3 +14,5 @@ export function Checkbox() {
     </CheckboxContaienr>
   )
 }
+
+Checkbox.displayName = 'Checkbox'
