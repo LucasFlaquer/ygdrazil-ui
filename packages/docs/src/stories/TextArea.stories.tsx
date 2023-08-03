@@ -4,7 +4,16 @@ import { Box, Text, TextArea, TextAreaProps } from '@gaia/react'
 export default {
   title: 'Form/Text Area',
   component: TextArea,
-  args: {},
+  args: {
+    disabled: false,
+  },
+  argTypes: {
+    disabled: {
+      control: {
+        type: 'boolean',
+      },
+    },
+  },
   decorators: [
     (Story) => (
       <Box css={{ display: 'flex', flexDirection: 'column', gap: '$2' }}>
