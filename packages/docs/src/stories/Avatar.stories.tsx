@@ -1,5 +1,5 @@
 import { StoryObj, Meta } from '@storybook/react'
-import { Avatar, AvatarProps } from '@gaia/react'
+import { Avatar, AvatarProps } from '@ygdrazil-ui/react'
 
 export default {
   title: 'Data display/Avatar',

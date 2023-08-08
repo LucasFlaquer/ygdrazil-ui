@@ -1,5 +1,5 @@
 {
-  "name": "@gaia/eslint-config",
+  "name": "@ygdrazil-ui/eslint-config",
   "private": true,
   "license": "MIT",
   "main": "index.js",

@@ -1,5 +1,5 @@
 {
-  "name": "@gaia/docs",
+  "name": "@ygdrazil-ui/docs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -14,10 +14,10 @@
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.20.12",
-    "@gaia/eslint-config": "*",
-    "@gaia/react": "*",
-    "@gaia/tokens": "*",
-    "@gaia/ts-config": "*",
+    "@ygdrazil-ui/eslint-config": "*",
+    "@ygdrazil-ui/react": "*",
+    "@ygdrazil-ui/tokens": "*",
+    "@ygdrazil-ui/ts-config": "*",
     "@storybook/addon-a11y": "^6.5.16",
     "@storybook/addon-actions": "^6.5.16",
     "@storybook/addon-docs": "^6.5.15",

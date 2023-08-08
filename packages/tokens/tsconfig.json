@@ -1,4 +1,4 @@
 {
-  "extends": "@gaia/ts-config/base.json",
+  "extends": "@ygdrazil-ui/ts-config/base.json",
   "include": ["src"]
 }

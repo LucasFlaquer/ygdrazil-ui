@@ -1,4 +1,4 @@
-import { colors } from '@gaia/tokens'
+import { colors } from '@ygdrazil-ui/tokens'
 import { getContrast } from 'polished'
 
 export function ColorsGrid() {

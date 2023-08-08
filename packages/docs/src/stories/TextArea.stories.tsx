@@ -1,5 +1,5 @@
 import { StoryObj, Meta } from '@storybook/react'
-import { Box, Text, TextArea, TextAreaProps } from '@gaia/react'
+import { Box, Text, TextArea, TextAreaProps } from '@ygdrazil-ui/react'
 
 export default {
   title: 'Form/Text Area',

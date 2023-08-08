@@ -1,5 +1,5 @@
 import { StoryObj, Meta } from '@storybook/react'
-import { Box, BoxProps, Text } from '@gaia/react'
+import { Box, BoxProps, Text } from '@ygdrazil-ui/react'
 
 export default {
   title: 'Surfaces/Box',

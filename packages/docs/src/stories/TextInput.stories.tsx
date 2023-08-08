@@ -1,5 +1,5 @@
 import { StoryObj, Meta } from '@storybook/react'
-import { Box, Text, TextInput, TextInputProps } from '@gaia/react'
+import { Box, Text, TextInput, TextInputProps } from '@ygdrazil-ui/react'
 
 export default {
   title: 'Form/TextInput',

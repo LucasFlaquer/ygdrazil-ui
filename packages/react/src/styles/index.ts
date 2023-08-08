@@ -6,7 +6,7 @@ import {
   lineHeights,
   radii,
   space,
-} from '@gaia/tokens'
+} from '@ygdrazil-ui/tokens'
 import { createStitches, defaultThemeMap } from '@stitches/react'
 
 export const { styled, css, globalCss, keyframes, getCssText, createTheme } =
