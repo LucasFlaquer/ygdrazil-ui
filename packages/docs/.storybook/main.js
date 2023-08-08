@@ -21,5 +21,6 @@ module.exports = {
     if (configType === 'PRODUCTION') {
       config.base = '/gaia-ui/'
     }
+    return config
   }
 }
